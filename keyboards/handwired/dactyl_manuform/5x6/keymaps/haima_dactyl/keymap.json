@@ -60,16 +60,16 @@
       "KC_PLUS",
       "KC_EQL",
       "KC_SPC",
-      "LSA(KC_A)",
-      "KC_LGUI",
-      "KC_SPC",
+      "SGUI(KC_A)",
       "KC_LALT",
+      "KC_SPC",
+      "KC_LGUI",
       "MO(2)",
       "MO(1)",
       "KC_ENT",
       "KC_NO",
       "LAG(KC_I)",
-      "LSA(KC_4)",
+      "SGUI(KC_4)",
       "KC_NO"
     ],
     [
@@ -205,5 +205,5 @@
       "KC_TRNS"
     ]
   ],
-  "author": ""
+  "author": "Juanma Orta"
 }
