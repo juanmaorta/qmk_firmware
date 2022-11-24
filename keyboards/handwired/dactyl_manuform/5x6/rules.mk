@@ -9,7 +9,7 @@ BOOTLOADER = caterina
 #
 CAPS_WORD_ENABLE = yes
 BOOTMAGIC_ENABLE = no       # Enable Bootmagic Lite
-MOUSEKEY_ENABLE = yes       # Mouse keys
+MOUSEKEY_ENABLE = no       # Mouse keys
 EXTRAKEY_ENABLE = yes       # Audio control and System control
 CONSOLE_ENABLE = no         # Console for debug
 COMMAND_ENABLE = yes        # Commands for debug and configuration
