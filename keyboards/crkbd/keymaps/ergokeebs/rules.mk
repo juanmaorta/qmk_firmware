@@ -4,3 +4,4 @@ OLED_ENABLE     = yes
 OLED_DRIVER     = SSD1306
 LTO_ENABLE      = yes
 SPLIT_KEYBOARD  = yes
+CAPS_WORD_ENABLE = yes
