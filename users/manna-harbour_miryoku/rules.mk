@@ -4,6 +4,9 @@
 MOUSEKEY_ENABLE = yes # Mouse keys
 EXTRAKEY_ENABLE = yes # Audio control and System control
 AUTO_SHIFT_ENABLE = yes # Auto Shift
+SPLIT_KEYBOARD = yes
+
+#VIA_ENABLE = yes # enable VIA
 
 INTROSPECTION_KEYMAP_C = manna-harbour_miryoku.c # keymaps
 
